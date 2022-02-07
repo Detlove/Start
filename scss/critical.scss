@@ -5,3 +5,13 @@
 
 
 //STYLES
+
+body {
+    font-family : monospace;
+    color       : #000;
+    background-color: #fff;
+
+    font-smooth: always;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
